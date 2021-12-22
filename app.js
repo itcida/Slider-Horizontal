@@ -1,3 +1,5 @@
+Set URL - window.location.href = "https://itcida.github.io/Slider-Horizontal/";
+
 let images = [...document.querySelectorAll(".img")];
 let slider = document.querySelector(".slider");
 let sliderWidth;
